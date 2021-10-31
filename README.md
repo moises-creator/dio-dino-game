@@ -22,6 +22,7 @@ Criando o jogo do dinossauro Google Ofline como desafio da [Digital Innovation O
 10. Após baixar, reinicie o Visual Studio para termos certeza que a extensão irá funcionar;
 11. Logo em seguida, clique no arquivo HTML com o botão direito do mouse e escolha a opção **Open with Live Server**;
 12. Será aberta uma nova guia no seu navegador com o jogo pronto para ser jogado;
+13. Para jogar novamente, recarregue a página.
 
 ### Divirta-se!
 
